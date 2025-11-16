@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EremirQ
 - 👀 I’m interested in Programming and Design
-- 📖 I’m currently learning Web Development
 - 📫 How to reach me Discord: a.t.o.m.1.c
 
 <!---
