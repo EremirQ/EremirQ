@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @EremirQ
+- Student @ HS Offenburg
 - 👀 I’m interested in Programming and Design
 - 📫 How to reach me Discord: a.t.o.m.1.c
 
